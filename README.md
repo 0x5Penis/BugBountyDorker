@@ -1,11 +1,11 @@
 # Bug Bounty Dorker
 
-How to use addons: \
+How to use addons:
 
 name: name of the addon \
 searchOperators: "dorks" that this addon will contain \
 searchEngine: the search engine this addon will use (Example: https://www.google.com/search?q=) \
-siteSearchOperator: what to use to find sites (Example: site:google.com) \
+siteSearchOperator: what to use to find sites (Example: site:google.com)
 
 ```
 {
