@@ -28,3 +28,5 @@ siteSearchOperator: what to use to find sites (Example: site:google.com)
 Bug Bounty Dorker ignores plugins named `example.json`. \
 parent json object that contains the addons must be called "addons" \
 one plugin and one example plugin comes with Bug Bounty Dorker in the releases section
+
+Feel free to use this code as long as you give credit
